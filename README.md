@@ -1,5 +1,5 @@
 # CalcyWalcy
-A simple calculator for fundamental plane analytic geometry and calculus I topics
+*A simple calculator for fundamental plane analytic geometry and calculus I topics*
 
 ## Problem
 I thought I liked math. I thought math liked me. Then I met Purdue Math Department...
@@ -18,6 +18,6 @@ I can hit two birds with one stone by learning one through the other. This will 
 
 #### Here's what I'm aiming to learn:
 - Manual math expression parsing
-- Tokenization, shunting-hard algorithm, expression trees
+- Tokenization, shunting-yard algorithm, expression trees
 - Error handling
 - Eventually, will implement ux features to transition from a personal experiment to a cleaner, usable interface
