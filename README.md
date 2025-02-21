@@ -1,5 +1,5 @@
 # CalcyWalcy
-## *A simple calculator for fundamental plane analytic geometry and calculus I topics*
+*A simple calculator for fundamental plane analytic geometry and calculus I topics*
 
 
 ## Problem
