@@ -1,9 +1,9 @@
 # CalcyWalcy
 *A simple calculator for fundamental plane analytic geometry and calculus I topics*
 
-Problem - I thought I liked math. I thought math liked me. Then I met Purdue Math Department...
+**Problem** - I thought I liked math. I thought math liked me. Then I met Purdue Math Department...
 
-Solution - Coding is fun, calculus, not so much. When approaching challenging concepts, passion for the subject is integral (pun intended) to success!
+**Solution** - Coding is fun, calculus, not so much. When approaching challenging concepts, passion for the subject is integral (pun intended) to success!
 I can hit two birds with one stone by learning one through the other. This will be a messy project, but I can't wait to dive in! 
 
 ## On the Docket
